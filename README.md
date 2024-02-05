@@ -25,3 +25,14 @@ Obsidian is the private and flexible writing app that adapts to the way you thin
   <li>Custom CSS Configuratins</li>
   <li>Tons of external plugins for complex tasks</li>
 </ol>
+
+<h3>3. Anytype: Private Note Taking App</h3>
+
+Anytype is the everything app for those who celebrate trust & autonomy
+
+<h4>Key Features:</h4>
+<ol>
+  <li>Local First</li>
+  <li>Open Source</li>
+  <li>Secure and Decentralized Sync</li>
+</ol>
