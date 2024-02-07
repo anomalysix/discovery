@@ -18,6 +18,7 @@ Capture notes, break down issues, track progress, and manage PRs in one lightwei
 <h3>2. Obsidian Note-Taking App</h3>
 
 Obsidian is the private and flexible writing app that adapts to the way you think.
+<a href="https:/obsidian.md">Get Obsidian</a>
 
 <h4>Key Features:</h4>
 <ol>
@@ -28,7 +29,8 @@ Obsidian is the private and flexible writing app that adapts to the way you thin
 
 <h3>3. Anytype: Private Note Taking App</h3>
 
-Anytype is the everything app for those who celebrate trust & autonomy
+Anytype is the everything app for those who celebrate trust & autonomy.
+<a href="https://anytype.io/">Get Anytype</a>
 
 <h4>Key Features:</h4>
 <ol>
